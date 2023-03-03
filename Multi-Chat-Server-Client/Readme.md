@@ -1,4 +1,11 @@
-# README
+# Multi-Client and Server Chat
+## Contributors:
+---
+Author: Masood Ahmed <br>
+Email: masood20@connect.hku.hk<br>
+
+---
+# Description
 
 This is a simple chat server implemented in Python that allows multiple clients to connect and exchange messages with the server. The server listens on port 5000 and accepts incoming connections from clients.
 

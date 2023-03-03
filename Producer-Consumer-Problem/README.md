@@ -1,10 +1,9 @@
-# CISC 324 - Operating Systems - Lab 2 - Producer Consumer Problem using Multi-threading
+# Producer Consumer Problem using Multi-threading
 
 ## Contributors:
 ---
 Author: Masood Ahmed <br>
-Email: 22xl31@queensu.ca<br>
-UID: 20379714
+Email: masood20@connect.hku.hk<br>
 
 ---
 
